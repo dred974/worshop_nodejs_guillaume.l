@@ -1,0 +1,17 @@
+#rect {
+    width: 5000px;
+    height: 200px;
+    background-color: blue;
+    position: relative;
+    top: -100px; left: -30px;
+}
+
+#text1 p{
+    position: relative;
+    top: -200px; left: 0px;
+}
+
+#text2 p{
+    position: relative;
+    top: -235px; left: 100px;
+}
